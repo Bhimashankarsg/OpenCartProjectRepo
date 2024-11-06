@@ -9,6 +9,6 @@ public static void main()
 
 public void SAM()
 {
-	System.out.println("SAM's Method");
+	System.out.println("SAM's Method ");
 	}
 }
