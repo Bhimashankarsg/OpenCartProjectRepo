@@ -30,4 +30,9 @@ Connection con;
 	{
 		System.out.println("This method is new ");
 	}
+	
+	public void getconnection2()
+	{
+		System.out.println("This method is new2 ");
+	}
 }
