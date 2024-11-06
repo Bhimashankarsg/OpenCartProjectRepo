@@ -25,4 +25,9 @@ Connection con;
 			
 		}
 	} 
+	
+	public void getconnection()
+	{
+		System.out.println("This method is new ");
+	}
 }
