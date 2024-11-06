@@ -8,6 +8,6 @@ public static void main()
 
 public void steve()
 {
-	System.out.println("STEVE Method");
+	System.out.println("STEVE Method  ");
 	}
 }
