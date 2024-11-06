@@ -41,8 +41,8 @@ Connection con;
 		System.out.println("This method is new3");
 	}
 	
-	public void getconnection4()
+	public void getconnectionsam()
 	{
-		System.out.println("This method is new444 Modifier");
+		System.out.println("This method is new444 Modifier SAM");
 	}
 }
