@@ -40,4 +40,9 @@ Connection con;
 	{
 		System.out.println("This method is new3");
 	}
+	
+	public void getconnection4()
+	{
+		System.out.println("This method is new444");
+	}
 }
