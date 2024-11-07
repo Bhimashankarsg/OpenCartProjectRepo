@@ -1,8 +1,8 @@
 package oc_DataBaseUtility;
 
 public class newdbfile {
-public static void main()
+public void updateByAL()
 {
-	System.out.println("Hello from AL LEAD d BRANCH");
+	System.out.println("updateByAL");
 }
 }
